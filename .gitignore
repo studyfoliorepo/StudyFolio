@@ -1,0 +1,14 @@
+# Flutter
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/.idea/
+flutter_app/.packages
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+
+# Spring Boot
+springboot_backend/target/
+springboot_backend/.idea/
+springboot_backend/.classpath
+springboot_backend/.project
+springboot_backend/.settings/
